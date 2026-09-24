@@ -1,20 +1,21 @@
 # pages-demo
-pages demo -erste Aufgabe- web
+Pages Demo/erste Aufgabe-web
+## Zweck
 
-Dies ist ein Projektvorlage, um ein Git-Repository einzurichten und GitHub zu verwenden. Es ist absichtlich klein gehalten, damit du ein grundlegendes Repo-Layout sehen, es klonen und gängige Git- und GitHub-Workflows üben kannst.
+Diese Webseite wurde im Rahmen einer Aufgabe erstellt.
+Sie dient dazu, eine einfache HTML-Seite mit GitHub Pages bereitzustellen.
 
-# Lokal öffnen
+## Lokal öffnen
 
 Die Webseite kann lokal geöffnet werden, indem die Datei `index.html`
 mit einem Webbrowser geöffnet wird.
 
-# GitHub Pages
+## GitHub Pages
 
 Die Webseite ist hier erreichbar:
 
 https://Maha-Ayash.github.io/pages-demo/
 
-
-# Lizenz
+## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
